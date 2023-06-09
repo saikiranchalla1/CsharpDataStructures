@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpDataStructures", "CsharpDataStructures\CsharpDataStructures.csproj", "{972D9930-9F2C-49DD-90E3-C8E8106D6895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{972D9930-9F2C-49DD-90E3-C8E8106D6895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972D9930-9F2C-49DD-90E3-C8E8106D6895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972D9930-9F2C-49DD-90E3-C8E8106D6895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972D9930-9F2C-49DD-90E3-C8E8106D6895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A20B2B8-9404-4105-AA85-76D3E9A13527}
+	EndGlobalSection
+EndGlobal
