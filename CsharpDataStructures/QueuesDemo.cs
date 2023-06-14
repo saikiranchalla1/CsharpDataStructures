@@ -8,7 +8,7 @@ namespace CsharpDataStructures
 {
     internal class QueuesDemo
     {
-        public static void Main(string[] args)
+        public static void Main1(string[] args)
         {
             Queue queue = new Queue();
 
